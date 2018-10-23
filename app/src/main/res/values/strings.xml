@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Bank</string>
+    <string name="enter_your_email_here">Enter your username here</string>
+</resources>
